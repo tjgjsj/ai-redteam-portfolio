@@ -6,3 +6,4 @@ All work is done locally on Linux.
 
 ## Projects
 - [01 – GPT-2 jailbreak scan with garak](./01-garak-dan-scan/): automated DAN jailbreak testing and results
+- [02 – GPT-2 vs. Llama 3.2 jailbreak comparison](./02-garak-comparison/): same attacks, two model generations, scored two ways
